@@ -1,0 +1,6 @@
+<?php
+$config['stations_location'] = "./ns-stations.db";
+$config['ns_api_username'] = "ns-api@ovdingen.nl";
+$config['ns_api_password'] = "QwErTyUiOp1234";
+$config['from_station'] = "UT";
+$config['peilpunt'] = 1523786400;
