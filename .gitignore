@@ -1,2 +1,5 @@
 station-import/ns-stations.db
 station-import/ns-stations.xml
+planner/config.php
+planner/ns-stations.db
+
